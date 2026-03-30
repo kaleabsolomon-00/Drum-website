@@ -15,19 +15,25 @@ body::before {
   background-image: url("drum image.jpg");
   background-size: cover;
   background-position: center;
-  filter: blur(2px);
+  filter: blur(4px);
   z-index: -1;
   opacity: 0.8;
 }
 h1 {
   text-align: center;
-  color: rgb(130, 117, 117);
+  color: rgb(166, 146, 146);
   font-size: 70px;
   margin-bottom: 0px;
 }
-p {
+.foot {
   text-align: center;
-  color: rgb(130, 117, 117);
+  color: rgb(166, 146, 146);
+  font-size: 20px;
+  margin-top: 150px;
+}
+.par {
+  text-align: center;
+  color: rgb(166, 146, 146);
   font-size: 50px;
   margin-bottom: 100px;
 }
