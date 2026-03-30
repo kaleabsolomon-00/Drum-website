@@ -1,0 +1,102 @@
+body {
+  background-color: rgb(159, 65, 65);
+}
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 70px;
+}
+p {
+  text-align: center;
+  color: rgb(42, 155, 157);
+  font-size: 50px;
+  margin-top: 0px;
+}
+.set {
+  display: flex;
+  justify-content: center;
+}
+.w-key {
+  width: 100px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  padding-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-image: url("Drum Kit Starting Files/images/crash.png");
+  background-size: cover;
+  display: inline-block;
+}
+.a-key {
+  width: 100px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  padding-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-image: url("Drum Kit Starting Files/images/kick.png");
+  background-size: cover;
+  display: inline-block;
+}
+.s-key {
+  width: 100px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  padding-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-image: url("Drum Kit Starting Files/images/snare.png");
+  background-size: cover;
+  display: inline-block;
+}
+.d-key {
+  width: 100px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  padding-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-image: url("Drum Kit Starting Files/images/tom1.png");
+  background-size: cover;
+  display: inline-block;
+}
+.j-key {
+  width: 100px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  padding-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-image: url("Drum Kit Starting Files/images/tom2.png");
+  background-size: cover;
+  display: inline-block;
+}
+.k-key {
+  width: 100px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  padding-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-image: url("Drum Kit Starting Files/images/tom3.png");
+  background-size: cover;
+  display: inline-block;
+}
+.l-key {
+  width: 100px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  padding-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-image: url("Drum Kit Starting Files/images/tom4.png");
+  background-size: cover;
+  display: inline-block;
+}
